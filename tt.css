@@ -1,0 +1,245 @@
+*
+{
+    margin:0;
+    padding:0;
+     box-sizing: border-box;
+} 
+body
+{
+    height:100vh;
+    width:100%;
+    background-image: url(back3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.header
+{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: azure;
+    border-radius: 30px;
+    padding-right: 50px;
+    box-shadow: blue;
+
+}
+.header ul li
+{
+    /* text:inline; */
+    margin-top: 20px;
+    text-align: center;
+    float:right;
+    padding: 10px;
+    letter-spacing: 3px;
+    list-style:none;
+    text-decoration: none;
+    justify-content: center;
+}
+.header ul li a
+{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    font-size: 1.1rem;
+}
+.header ul li a:hover
+{
+    color: chartreuse;
+}
+.logo{
+    float: left;
+    padding: 10px 10px;
+    margin-top: 10px;
+}
+.md
+{
+    justify-content: center;
+    text-align: center;
+    background-image:url(back5.jpg);
+    background-position: center;
+    background-blend-mode:darken;
+    height: 200px;
+    width: 80%;
+    margin:auto;
+    border-radius: 60px;
+    background-color:thistle;
+    
+    
+}
+.md img
+{
+    margin-left: 100px;
+    border-radius: 50%;
+    border-color: black;
+}
+/* .md select
+{
+    text-align: center;
+    float:left;
+    margin-left: 100px;
+} */
+/* .md h1 p
+{
+box-shadow: white;
+b
+
+} */
+.video1
+{
+    text-align: center;
+    /* padding:100px; */
+    /* background-color:rgb(141, 60, 60);
+    padding: auto; */
+    /* height:20px;
+    width:30px; */
+    margin-top: -345px;
+    border-radius: 30%;
+}
+    video {
+        height: 300px;
+        width: 500px;
+ 
+    }
+    .musicm div img audio
+    {
+       margin:50px;
+       text-align: center;
+       font-size: 30px;
+    }
+    .musicm 
+    {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .musicm img
+    {
+        padding: 50px;
+    }
+    .musicma div img audio
+    {
+       margin:50px;
+       text-align: center;
+       font-size: 30px;
+    }
+    .musicma
+    {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .musicma img
+    {
+        padding: 50px;
+    }
+    .musicmai div img audio
+    {
+       margin:50px;
+       text-align: center;
+       font-size: 30px;
+    }
+    .musicmai 
+    {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .musicmai div img
+    {
+        padding: 50px;
+        text-align: center;
+    }
+    .m2
+    {
+    text-align:center;
+    margin-top: -345px;
+    /* display:flex; */
+    }
+    .m3
+    {
+        float:right;
+        margin-top:-345px;
+    }
+    .m4
+    {
+        margin-top:30px;
+    }
+    .m5
+    {
+        float:right;
+        margin-top: -345px;
+    }
+    .m6
+    {
+        margin-top: 30px;
+    }
+    .m7
+    {
+        text-align: center;
+        margin-top:-345px;
+    }
+    .m8
+    {
+        float:right;
+        margin-top: -345px;
+    }
+    .small_logo ul 
+    {
+        /* height:50px; */
+        width:100%;
+        text-align: center;
+        padding-top: 50px;
+         padding-left:50px;
+        background-color: gray;
+        border-radius: 40%;
+    
+    }
+    .small_logo ul h1
+    {
+        text-align: center;
+        /* padding-bottom: 500px; */
+        text-transform: uppercase;
+        font-size-adjust: bold;
+        letter-spacing: 3px;
+        font-size: 3rem;
+    }
+    /* .small_logo h1{
+        background-color: green;
+    } */
+    .small_logo p
+    {
+        text-transform: uppercase;
+    }
+     .logo_bottom
+    {
+      float:right;
+    
+    } 
+    .small_logo ul li
+    {
+        float:right;
+        list-style-type: none;
+    }
+    /* .arjitp img
+    {
+        margin-top: -247;;
+    } */
+    h1
+    {
+        font-size: 60px;
+        font-weight: bolder;
+        padding: 2px;
+        text-align: center;
+        justify-content: center;
+        animation: disco 2s infinite;
+        color: rgba(0,0,0,0);
+    }
+    /*@keyframes disco
+    {
+        0%,100%{
+            text-shadow: 4px 4px gold;
+        }
+        50%{
+            text-shadow: 4px 4px white;
+        }
+    }
